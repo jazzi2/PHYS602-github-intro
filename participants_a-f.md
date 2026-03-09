@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+|Bogdan Bulgaru|Developing an ultra-high mobility transistor with Galium Arsenide.|
 | Zachary Désy | Programmable all-optical nonlinear inforamtion processing using integrated photonics. |
 | Brendan Barry | ATLAS |
 | Jack Faller | Meausuring small magnetic fields with NV Centers |
