@@ -4,3 +4,5 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+| Christopher Sheridan | Studying AGN with the Event Horizon Collaboration |
+|Z Steinberg|Radio Telescope Instrumentation|
