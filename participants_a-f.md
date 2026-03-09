@@ -4,6 +4,7 @@ Add a row with your name and a short description of your research (10 words or f
 
 | Name | Research |
 |------|----------|
+| Jack Faller | Meausuring small magnetic fields with NV Centers |
 | Aditya Chugh | Studying new phases of matter in topological materials |
 |Abhinav Sinha| Quantum Parameter Estimation|
 |Polina|Quantum Optics|
